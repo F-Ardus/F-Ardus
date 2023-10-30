@@ -3,7 +3,7 @@
 
 <br>
 <br>
-<p align="center">🌱 I’m currently learning Django and svelte, and working with React</p>
+<p align="center">🌱 I’m currently learning Astro, and working with React</p>
 
 <p align="center">📫 <strong>fabio.ardus@gmail.com</strong></p>
 
