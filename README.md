@@ -96,16 +96,13 @@
 
 <h3 align="center">Statistical Data :-</h3>
 <p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=F-Ardus&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_EXACT_USERNAME&show_icons=true&locale=en&layout=compact"
     alt="fabio-ardus" /></p>
 
-<br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=F-Ardus&show_icons=true&locale=en"
+<p align="center">&nbsp;<img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&locale=en"
     alt="fabio-ardus" /></p>
 
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=F-Ardus&theme=tokyonight_duo&hide_border=true" alt="fabio-ardus" /></p>
-
-<br>
+<p align="center"><img align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_EXACT_USERNAME&theme=tokyonight_duo&hide_border=true" 
+    alt="fabio-ardus" /></p>
