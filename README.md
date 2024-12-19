@@ -95,14 +95,44 @@
 <br>
 
 <h3 align="center">Statistical Data :-</h3>
-<p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=F-Ardus&show_icons=true&locale=en&layout=compact"
-    alt="fabio-ardus" /></p>
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=F-Ardus&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=1800"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=F-Ardus&show_icons=true&locale=en&layout=compact&cache_seconds=1800"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F-Ardus&show_icons=true&locale=en&layout=compact&cache_seconds=1800" />
+</picture>
+</p>
 
-<p align="center">&nbsp;<img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=F-Ardus&show_icons=true&locale=en"
-    alt="fabio-ardus" /></p>
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=F-Ardus&show_icons=true&theme=dark&locale=en&cache_seconds=1800"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=F-Ardus&show_icons=true&locale=en&cache_seconds=1800"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=F-Ardus&show_icons=true&locale=en&cache_seconds=1800" />
+</picture>
+</p>
 
-<p align="center"><img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=F-Ardus&theme=tokyonight_duo&hide_border=true" 
-    alt="fabio-ardus" /></p>
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=F-Ardus&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=F-Ardus&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=F-Ardus&hide_border=true" />
+</picture>
+</p>
